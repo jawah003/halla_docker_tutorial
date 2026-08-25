@@ -1,0 +1,103 @@
+cluster_rank	cluster_X	cluster_Y	best_adjusted_pvalue
+1	taurine;3-(3-hydroxyphenyl)propionate;3-(4-hydroxyphenyl)propionate;mead acid (20:3n9);7-methylguanine;3-methyladipate;N-acetylhistamine;N-acetyl-cadaverine;3-aminoisobutyrate;3-ureidopropionate;bilirubin (Z,Z);ursocholate;12-dehydrocholate;7-ketodeoxycholate;cholate;linoleoyl ethanolamide;N-acetylputrescine	Ruminococcus_E;Ruminiclostridium_E;Phocaeicola;Bacteroides;Eubacterium_R;Enterocloster;Gemmiger;CAG-83;ER4	2.706124411698265e-12
+2	tryptamine;L-urobilin;D-urobilin	Barnesiella;Butyricimonas;Alistipes;Odoribacter;Faecalibacillus;Acetatifactor;Lachnospira;Faecalibacterium;KLE1615;Parabacteroides;Ruminococcus_E;Ruminiclostridium_E;Phocaeicola;Bacteroides;Eubacterium_R;Enterocloster;Gemmiger;CAG-83;ER4	2.6811533854141665e-11
+3	1,7-dimethylurate	Eubacterium_R;Enterocloster;Gemmiger;CAG-83;ER4	3.2857942597863763e-08
+4	N-methylproline;trigonelline (N'-methylnicotinate);1-methylnicotinamide	Gemmiger;CAG-83;ER4	1.6906317746659174e-06
+5	1-oleoylglycerol (18:1)	Parabacteroides;Ruminococcus_E;Ruminiclostridium_E;Phocaeicola;Bacteroides;Eubacterium_R;Enterocloster;Gemmiger;CAG-83;ER4	4.252504933067388e-06
+6	taurine;3-(3-hydroxyphenyl)propionate;3-(4-hydroxyphenyl)propionate;mead acid (20:3n9);7-methylguanine;3-methyladipate;N-acetylhistamine;N-acetyl-cadaverine;3-aminoisobutyrate;3-ureidopropionate;bilirubin (Z,Z);ursocholate;12-dehydrocholate;7-ketodeoxycholate;cholate;linoleoyl ethanolamide;N-acetylputrescine	Alistipes;Odoribacter	2.2280148526077352e-05
+7	3-phenylpropionate (hydrocinnamate)	Faecalibacillus;Acetatifactor;Lachnospira;Faecalibacterium;KLE1615	3.584566713326162e-05
+8	ursocholate	Butyricimonas	4.695521970143601e-05
+9	galacturonate;arabinose	Faecalibacterium	0.00011261020347498395
+10	galacturonate;arabinose	CAG-83	0.00011357541228392641
+11	1-oleoylglycerol (18:1)	Barnesiella;Butyricimonas;Alistipes;Odoribacter	0.0001339970736353341
+12	taurine;3-(3-hydroxyphenyl)propionate;3-(4-hydroxyphenyl)propionate	Barnesiella;Butyricimonas	0.00013849502774756844
+13	galacturonate;arabinose	Roseburia	0.00014608873185480872
+14	7-methylguanine	Acetatifactor	0.0001876274134572877
+15	galacturonate;arabinose	Alistipes	0.0002564645706813467
+16	trigonelline (N'-methylnicotinate)	Ruminiclostridium_E	0.000449809429953544
+17	7-methylguanine	KLE1615	0.0005566315405206485
+18	N-acetylhistamine	Butyricimonas	0.000566393723623442
+19	tryptamine	Blautia_A	0.000714855395569153
+20	3-phenylpropionate (hydrocinnamate)	Gemmiger;CAG-83;ER4	0.000773198317745581
+21	phosphate	CAG-83;ER4	0.0009555756974086697
+22	taurine;3-(3-hydroxyphenyl)propionate;3-(4-hydroxyphenyl)propionate	Roseburia	0.000982408727077873
+23	7-methylguanine	Blautia_A	0.0010105938464257328
+24	3-methyladipate;N-acetylhistamine;N-acetyl-cadaverine	KLE1615	0.0011107964782421495
+25	7-ketodeoxycholate;cholate	Butyricimonas	0.001116249974272174
+26	galacturonate;arabinose	Phocaeicola	0.001505471828403137
+27	L-urobilin	Collinsella	0.001604001646635258
+28	3-phenylpropionate (hydrocinnamate)	Parabacteroides	0.0016074591476054779
+29	linoleoyl ethanolamide	KLE1615	0.0017373070204133071
+30	galacturonate	Anaerobutyricum	0.0017840448504902425
+31	linoleoyl ethanolamide	Barnesiella	0.0020849428302806595
+32	1,7-dimethylurate	Phocaeicola	0.00239842983771951
+33	piperine	CAG-83	0.002441756298858462
+34	N-methylproline	Barnesiella;Butyricimonas	0.002474620659096576
+35	D-urobilin	Blautia_A	0.0026059894315060878
+36	3-methyladipate	Acetatifactor	0.0026828555711129816
+37	linoleoyl ethanolamide	Butyricimonas	0.003073221598868134
+38	quinate	Ruminiclostridium_E	0.00308550035764177
+39	phosphate	Collinsella	0.0034673425037333636
+40	methylphosphate	Ruminococcus_E	0.0036035954226728063
+41	N-methylproline	Ruminiclostridium_E	0.0036145501784007592
+42	N-methylproline	Bacteroides	0.004667778455571962
+43	N-acetylputrescine	Roseburia	0.005668226645790715
+44	1,7-dimethylurate	Roseburia	0.005719259162795276
+45	arabinose	Anaerobutyricum	0.00768306398441314
+46	trigonelline (N'-methylnicotinate);1-methylnicotinamide	Oliverpabstia	0.008060779209872908
+47	solanidine	Agathobacter	0.00813857863736477
+48	trigonelline (N'-methylnicotinate)	Alistipes	0.00813857863736477
+49	1-methylnicotinamide	Bacteroides	0.008253980959723467
+50	lysylleucine	Butyricimonas	0.00854515008277179
+51	galacturonate;arabinose	Lachnospira	0.00854515008277179
+52	methylphosphate	Anaerobutyricum	0.008594166160272679
+53	3-(3-hydroxyphenyl)propionate	Collinsella	0.008914227693568973
+54	phosphate	Acetatifactor	0.01011931944345484
+55	3-phenylpropionate (hydrocinnamate)	Phocaeicola	0.012944139585672679
+56	bilirubin (Z,Z)	Parabacteroides	0.013878020249055528
+57	N-acetyl-cadaverine	Acetatifactor	0.013942556660269697
+58	mead acid (20:3n9)	Mediterraneibacter	0.014101984490480857
+59	linoleoyl ethanolamide	Anaerobutyricum	0.015138150335204294
+60	quinate	CAG-83;ER4	0.015463502847473727
+61	1-oleoylglycerol (18:1)	Faecalibacterium;KLE1615	0.015488979390701313
+62	methylphosphate	Alistipes	0.0167858430560675
+63	1,7-dimethylurate	Barnesiella	0.016951038522283787
+64	3-phenylpropionate (hydrocinnamate)	Bacteroides	0.017065262614567218
+65	3-aminoisobutyrate	KLE1615	0.01720496449712309
+66	3-aminoisobutyrate	Roseburia	0.017492752605838345
+67	mead acid (20:3n9)	Blautia_A	0.017850950454193347
+68	mead acid (20:3n9)	KLE1615	0.018159474885455454
+69	7-methylguanine	Lachnospira	0.018313676635514257
+70	N-acetylputrescine	Dysosmobacter	0.019189406721384857
+71	quinate	Dysosmobacter	0.019654919247117198
+72	1-methylnicotinamide	Anaerobutyricum	0.019654919247117198
+73	7-methylguanine	Butyricimonas	0.021659166231483472
+74	1,7-dimethylurate	Collinsella	0.023861025747269192
+75	L-urobilin	Blautia_A	0.025796346424967614
+76	3-aminoisobutyrate	Blautia_A	0.026651310589634877
+77	1,7-dimethylurate	Fusicatenibacter	0.027178606059734437
+78	N-methylproline	Faecalibacillus	0.027790551584495997
+79	taurine	Lachnospira	0.027790551584495997
+80	cholate	Dysosmobacter	0.028220890340423188
+81	arabinose	Dysosmobacter	0.02880776784929289
+82	taurine	Dysosmobacter	0.03055229302037488
+83	galacturonate	Mediterraneibacter	0.03185720619658243
+84	phosphate	Odoribacter	0.03266518527882251
+85	N-methylproline	Roseburia	0.03335857935842154
+86	3-ureidopropionate	Fusicatenibacter	0.03335857935842154
+87	12-dehydrocholate	Dysosmobacter	0.0333657984127197
+88	methylphosphate	Ruminiclostridium_E	0.034739635883004986
+89	1,7-dimethylurate	Ruminiclostridium_E	0.03528989590237945
+90	N-acetylhistamine	Barnesiella	0.03577306925835994
+91	trigonelline (N'-methylnicotinate)	Butyricimonas	0.03799028285288189
+92	L-urobilin	Eisenbergiella	0.03816037116744127
+93	arabinose	ER4	0.038919453179074255
+94	3-methyladipate	Butyricimonas	0.041812879866482
+95	N-acetylputrescine	Agathobacter	0.04281432943936202
+96	mead acid (20:3n9)	Butyricimonas	0.04281432943936202
+97	trigonelline (N'-methylnicotinate)	Roseburia	0.04541812750106737
+98	methylphosphate	Barnesiella	0.04573193249023275
+99	N-acetylputrescine	Fusicatenibacter	0.04573193249023275
+100	12-dehydrocholate	Eisenbergiella	0.04769084518524949
+101	7-ketodeoxycholate	Roseburia	0.04769084518524949
+102	ursocholate	Barnesiella	0.04872430646620783

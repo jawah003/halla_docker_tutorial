@@ -1,0 +1,41 @@
+feature	Superpathway	Subpathway	HMDB	KEGG	label	shannon_rho	shannon_fdr
+N-acetylhistamine	Amino Acid	Histidine Metabolism	HMDB0013253	C05135	N-acetylhistamine	-0.4856	1.75805e-14
+piperine	Xenobiotics	Food Component/Plant	HMDB0029377	C03882	piperine	-0.1434	0.0328674
+7-ketodeoxycholate	Lipid	Secondary Bile Acid Metabolism	HMDB0000391	C04643	7-ketodeoxycholate	-0.479	3.60304e-14
+cholate	Lipid	Primary Bile Acid Metabolism	HMDB0000619	C00695	cholate	-0.4312	7.89471e-12
+solanidine	Xenobiotics	Food Component/Plant	HMDB0003236	C06543	solanidine	0.0244	0.726237
+tyramine O-sulfate	Amino Acid	Tyrosine Metabolism	HMDB0006409		tyramine O-sulfate	0.0076	0.907023
+N-acetyl-cadaverine	Amino Acid	Lysine Metabolism			N-acetyl-cadaverine	-0.4677	8.49045e-14
+1,7-dimethylurate	Xenobiotics	Xanthine Metabolism	HMDB0011103	C16356	1,7-dimethylurate	-0.2877	9.41735e-06
+3-methyladipate	Lipid	Fatty Acid, Dicarboxylate	HMDB0000555		3-methyladipate	0.4729	4.72933e-14
+mead acid (20:3n9)	Lipid	Polyunsaturated Fatty Acid (n3 and n6)			mead acid (20:3n9)	-0.3447	9.97919e-08
+3-(3-hydroxyphenyl)propionate	Xenobiotics	Benzoate Metabolism	HMDB0000375	C11457	3-(3-hydroxyphenyl)propionate	-0.4774	3.65947e-14
+taurine	Amino Acid	Methionine, Cysteine, SAM and Taurine Metabolism	HMDB0000251	C00245	taurine	-0.4033	2.24118e-10
+galacturonate	Xenobiotics	Food Component/Plant	HMDB0002545	C08348	galacturonate	-0.263	5.39501e-05
+L-urobilin	Cofactors and Vitamins	Hemoglobin and Porphyrin Metabolism	HMDB0004160	C05793	L-urobilin	0.4983	3.65032e-15
+tryptamine	Amino Acid	Tryptophan Metabolism	HMDB0000303	C00398	tryptamine	-0.3387	1.65748e-07
+12-dehydrocholate	Lipid	Secondary Bile Acid Metabolism			12-dehydrocholate	-0.445	1.38984e-12
+creatinine	Amino Acid	Creatine Metabolism	HMDB0000562	C00791	creatinine	-0.0437	0.541088
+1-oleoylglycerol (18:1)	Lipid	Monoacylglycerol	HMDB0011567		1-oleoylglycerol (18:1)	-0.4572	3.39444e-13
+linoleoyl ethanolamide	Lipid	Endocannabinoid	HMDB0012252		linoleoyl ethanolamide	-0.5213	1.59946e-16
+ursocholate	Lipid	Secondary Bile Acid Metabolism	HMDB0000917	C17644	ursocholate	-0.4743	4.72933e-14
+phosphate	Energy	Oxidative Phosphorylation	HMDB0001429	C00009	phosphate	0.1246	0.0653459
+N-acetylputrescine	Amino Acid	Polyamine Metabolism	HMDB0002064	C02714	N-acetylputrescine	-0.4725	4.72933e-14
+3-(4-hydroxyphenyl)propionate	Xenobiotics	Benzoate Metabolism	HMDB0002199	C01744	3-(4-hydroxyphenyl)propionate	-0.3038	2.82311e-06
+3-phenylpropionate (hydrocinnamate)	Xenobiotics	Benzoate Metabolism			3-phenylpropionate (hydrocinnamate)	0.1853	0.00528868
+quinate	Xenobiotics	Food Component/Plant	HMDB0003072	C00296	quinate	-0.1582	0.0182705
+N-methylproline	Amino Acid	Urea cycle; Arginine and Proline Metabolism	HMDB0094696		N-methylproline	-0.3476	8.00858e-08
+trigonelline (N'-methylnicotinate)	Cofactors and Vitamins	Nicotinate and Nicotinamide Metabolism	HMDB0000875	C01004	trigonelline (N'-methylnicotinate)	-0.3378	1.71655e-07
+1-methylnicotinamide	Cofactors and Vitamins	Nicotinate and Nicotinamide Metabolism	HMDB0000699	C02918	1-methylnicotinamide	-0.2773	2.01021e-05
+2'-deoxycytidine 5'-monophosphate	Nucleotide	Pyrimidine Metabolism, Cytidine containing	HMDB0001202	C00239	2'-deoxycytidine 5'-monophosphate	-0.1065	0.11755
+2'-deoxyadenosine 5'-monophosphate	Nucleotide	Purine Metabolism, Adenine containing	HMDB0000905	C00360	2'-deoxyadenosine 5'-monophosphate	-0.1049	0.119928
+D-urobilin	Cofactors and Vitamins	Hemoglobin and Porphyrin Metabolism		C05795	D-urobilin	-0.4519	6.38905e-13
+tricarballylate	Energy	TCA Cycle	HMDB0031193	C19806	tricarballylate	0.0655	0.346853
+7-methylguanine	Nucleotide	Purine Metabolism, Guanine containing	HMDB0000897	C02242	7-methylguanine	-0.4499	7.7578e-13
+methylphosphate	Nucleotide	Purine and Pyrimidine Metabolism	HMDB0061711		methylphosphate	-0.2627	5.39501e-05
+bilirubin (Z,Z)	Cofactors and Vitamins	Hemoglobin and Porphyrin Metabolism	HMDB0000054	C00486	bilirubin (Z,Z)	-0.2894	8.62884e-06
+lysylleucine	Peptide	Dipeptide	HMDB0028955		lysylleucine	-0.2478	0.000144343
+3-aminoisobutyrate	Nucleotide	Pyrimidine Metabolism, Thymine containing	HMDB0003911	C05145	3-aminoisobutyrate	-0.31	1.83639e-06
+anserine	Peptide	Dipeptide Derivative	HMDB0000194	C01262	anserine	-0.0243	0.726237
+3-ureidopropionate	Nucleotide	Pyrimidine Metabolism, Uracil containing	HMDB0000026	C02642	3-ureidopropionate	-0.3053	2.60489e-06
+arabinose	Carbohydrate	Pentose Metabolism	HMDB0000646	C00259	arabinose	-0.3356	1.98887e-07
