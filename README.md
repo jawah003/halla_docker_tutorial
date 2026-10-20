@@ -341,7 +341,7 @@ If HAllA does work for you, cite it:
 
 The data has its own citations, in [data/DATA_SOURCE.md](data/DATA_SOURCE.md).
 
-## Licence
+## License
 
 MIT — see [LICENSE](LICENSE). `hallagram_render.py` is included under the same terms. The dataset in
 `data/` comes from an MIT-licensed resource and keeps its original attribution.
